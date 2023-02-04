@@ -1,0 +1,28 @@
+.text-center{
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+}
+.container{
+    width: 90%;
+    background-color: rgb(164, 149, 177);
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    transform: translate(-17%,32%);
+    border-radius: 10px;
+}
+.table{
+    margin-left: 20px;
+    width: 90%;
+}
+.one{
+    text-align: center;
+    padding: 10px;
+    font-family: 'Abel', sans-serif;
+}
+.two{
+    font-family: 'Abel', sans-serif;
+}
+.btn{
+    text-decoration: none;
+}

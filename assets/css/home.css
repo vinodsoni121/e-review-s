@@ -1,0 +1,65 @@
+.text-center{
+    background-color: rgb(149, 134, 134);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgb(60, 59, 59);
+}
+.text-center h1{
+    font-family: 'Abel', sans-serif;
+    padding: 5px;
+}
+.w-4{
+    width:45%;
+}
+#body-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.no-b{
+    border: 0px solid white;
+}
+
+.w-100{
+    width:100%;
+}
+
+#body-container{
+    margin-top: 60px;
+}
+
+.right-alligned{
+    display: flex;
+    justify-content: end;
+}
+
+.m-10{
+    margin:10px;
+}
+.card-title{
+    font-family: 'Abel', sans-serif;
+}
+.form-control{
+    width: 99%;
+    padding-bottom: 10%;
+}
+.right-alligned{
+    width: 7%;
+}
+.btn-primary{
+    padding: 7px;
+    font-family: 'Abel', sans-serif;
+    box-shadow: 2px 2px 2px rgb(60, 59, 59);
+    background-color: rgb(149, 134, 134);
+    border: none;
+    border-radius: 3px;
+}
+.card-text{
+    font-family: 'Abel', sans-serif;
+}
+.card-body{
+    margin-top: 4px;
+    background-color: rgb(233, 224, 224);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgb(59, 58, 58);
+    padding: 5px;
+}
